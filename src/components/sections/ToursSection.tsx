@@ -23,7 +23,7 @@ const tours = [
     duration: "2-3 days",
     price: "₹6,500/person",
     desc: "Relax in the Queen of Hills with scenic views, waterfalls, and mall road walks.",
-    imgurl: "/image/mountains.jpg",
+    imgurl: "/Image/mountains.jpg",
   },
 ];
 
