@@ -9,25 +9,25 @@ const vehicles = [
     name: "Mini / Hatchback",
     desc: "Perfect for budget-friendly city rides and small families. Compact & comfortable.",
     price: "Starts at ₹12/km",
-    icon: "/image/mini.png",
+    icon: "/Image/mini.png",
   },
   {
     name: "Sedan / Standard",
     desc: "Ideal for outstation trips. Spacious seating for 4 with ample luggage space.",
     price: "Starts at ₹14/km",
-    icon: "/image/sedan.png",
+    icon: "/Image/sedan.png",
   },
   {
     name: "SUV / Premium",
     desc: "Best for long journeys & hill stations. Extra legroom & power for 6-7 travelers.",
     price: "Starts at ₹19/km",
-    icon: "/image/suv.png",
+    icon: "/Image/suv.png",
   },
   {
     name: "Luxury / Executive",
     desc: "Travel in style for weddings & corporate events. Premium comfort guaranteed.",
     price: "Starts at ₹25/km",
-    icon: "/image/luxery.png",
+    icon: "/Image/luxery.png",
   },
 ];
 
