@@ -9,14 +9,14 @@ const tours = [
     duration: "10-12 days",
     price: "₹14,500/trip",
     desc: "A divine spiritual journey across the sacred peaks of Uttarakhand. Complete package.",
-    imgurl: "/image/chaardhamyatra.jpg",
+    imgurl: "/Image/chaardhamyatra.jpg",
   },
   {
     name: "Rishikesh Adventure",
     duration: "3-5 days",
     price: "₹8,000/person",
     desc: "Experience the thrill of rafting, camping, and yoga by the Ganges.",
-    imgurl: "/image/rishikesh.jpg",
+    imgurl: "/Image/rishikesh.jpg",
   },
   {
     name: "Mussoorie Hill Escape",
