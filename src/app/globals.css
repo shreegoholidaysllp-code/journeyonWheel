@@ -1,0 +1,38 @@
+@import "tailwindcss";
+@theme {
+  --font-family-heading: var(--font-chivo), sans-serif;
+  --font-family-body: var(--font-open-sans), sans-serif;
+
+  --font-family-test: var(--font-poppins), sans-serif;
+
+  --color-primary: #008c8d;
+  --color-secondary: #ffc107;
+  --color-background: #f9fafb;
+  --color-background-light: #f9f9f9;
+  --color-background-dark: #111827;
+  --color-background-muted: #f3f4f6;
+  --color-border-light: #e0e0e0;
+
+  --color-text: #222222;
+  --color-text-light: #666666;
+  --color-text-white: #ffffff;
+}
+
+@utility font-heading {
+  font-family: var(--font-family-heading);
+}
+
+@utility font-body {
+  font-family: var(--font-family-body);
+}
+
+@utility font-title {
+  font-family: var(--font-family-test);
+}
+
+/* Apply fonts and background globally */
+body {
+  font-family: var(--font-family-body);
+  background-color: var(--color-background);
+  color: var(--color-text);
+}
